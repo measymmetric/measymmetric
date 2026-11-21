@@ -8,7 +8,7 @@
 
 ## 🍥 Mission scrolls &nbsp;<sub><code>pinned</code></sub>
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 <sub><code>巻 01</code>&nbsp; ORIGIN ARC</sub>
