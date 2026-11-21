@@ -1,21 +1,41 @@
-<div align="center">
+<h1 align="center">Ankur Pratap Singh</h1>
+<p align="center">
+  <code>@measymmetric</code>&nbsp;&nbsp;·&nbsp;&nbsp;Delhi, India&nbsp;&nbsp;·&nbsp;&nbsp;games &amp; code in C#
+</p>
 
-<sub>ANKUR PRATAP SINGH &nbsp; / &nbsp; @MEASYMMETRIC</sub>
+<p align="center">
+  <a href="https://devankur.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-devankur.vercel.app_%E2%86%97-A78BFA?style=for-the-badge&labelColor=161B22" alt="Portfolio: devankur.vercel.app">
+  </a>
+</p>
 
-# From an idea to something you can play.
+<p align="center">
+  <img src="https://img.shields.io/badge/Unity-161B22?style=flat-square&logo=unity&logoColor=A78BFA" alt="Unity">
+  <img src="https://img.shields.io/badge/C%23-161B22?style=flat-square" alt="C#">
+  <img src="https://img.shields.io/badge/Mobile_Games-161B22?style=flat-square" alt="Mobile games">
+</p>
 
-I build games and explore the web.  
-Unity, C#, and interactive experiments — one project at a time.
+<br>
 
-<a href="https://devankur.vercel.app/"><img alt="Visit my portfolio" src="https://img.shields.io/badge/VISIT_MY_PORTFOLIO_%E2%86%97-C4F1BE?style=for-the-badge&amp;logo=vercel&amp;logoColor=14261E" /></a>
-&nbsp;
-<a href="https://github.com/measymmetric?tab=repositories"><img alt="Explore my code on GitHub" src="https://img.shields.io/badge/EXPLORE_MY_CODE-202B33?style=for-the-badge&amp;logo=github&amp;logoColor=E6EDF3" /></a>
+<h3 align="center"><code>I am &gt; I Was</code></h3>
+<p align="center"><sub><i>the only changelog that matters.</i></sub></p>
+<p align="center">
+  It started with <a href="https://github.com/measymmetric/space-attack"><b>space-attack</b></a>, my first <b>Unity</b> game for mobile.<br>
+  Since then: more C#, more experiments, a corner of web development,<br>
+  and one rule. Every build should beat the last one.
+</p>
 
-<sub>DELHI, INDIA &nbsp; · &nbsp; GAMES &nbsp; / &nbsp; INTERACTIVE &nbsp; / &nbsp; WEB</sub>
+```csharp
+// measymmetric.cs
+var iWas = Ankur.Yesterday;
+var iAm  = Ankur.Today;
 
----
+Debug.Assert(iAm > iWas);   // the one test I never skip
+```
 
-**“I am > I was.”**  
-<sub>Keep building. Keep evolving.</sub>
+<p align="center">
+  <a href="https://devankur.vercel.app/"><kbd>&nbsp;Portfolio ↗&nbsp;</kbd></a>&nbsp;&nbsp;
+  <a href="https://github.com/measymmetric?tab=repositories"><kbd>&nbsp;All repositories&nbsp;</kbd></a>
+</p>
 
-</div>
+<p align="center"><sub>↓&nbsp; pinned work &amp; contribution graph just below &nbsp;↓</sub></p>
