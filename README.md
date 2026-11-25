@@ -1,14 +1,19 @@
-<!-- Image: "Digital rain animation medium letters clear.gif" by Jahobr, Wikimedia Commons, CC0 1.0. Source: https://commons.wikimedia.org/wiki/File:Digital_rain_animation_medium_letters_clear.gif -->
-<img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Digital_rain_animation_medium_letters_clear.gif" alt="Green digital rain animation on a black background">
-
 # Ankur Pratap Singh
 
-`measymmetric` · Delhi, India
+Full-stack developer in Delhi, India. I build for the web with TypeScript, React and Next.js, and I've made games in Unity and C#.
 
-I build with Unity and C#, and I like experimenting with the web.
+### [▶ Boot ANKUR-01, my playable portfolio](https://devankur.vercel.app/)
 
-> I am > I Was
+It works like a handheld game: the cartridge slots in, the screen wakes up, and every project sits behind the D-pad.
 
-**[Visit my portfolio at devankur.vercel.app](https://devankur.vercel.app/)**
+```text
+ANKUR-01  cartridge label
 
-<br clear="right">
+web       TypeScript   JavaScript   React   Next.js   Node.js
+games     C#   Unity
+also      Python   SQL
+motto     I am > I Was
+```
+
+Start with [**space-attack**](https://github.com/measymmetric/space-attack), my first Unity game for mobile, then explore the pinned repositories below.<br>
+Say hello on [LinkedIn](https://www.linkedin.com/in/ankur-singh-3b736332/).
